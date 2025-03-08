@@ -1,3 +1,3 @@
-# Dados Covid 🦠 
-#### Interface criada com python, pandas, stremalit e plotly para exibição de gráfico interativo com informações sobre a COVID no Brasil. Resultado final:
+## Covid Data 🦠
+Interface created with Python, Pandas, Streamlit, and Plotly to display an interactive chart with COVID information in Brazil.
 ![resultado](projeto_final.png)
